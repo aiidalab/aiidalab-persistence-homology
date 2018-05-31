@@ -1,0 +1,8 @@
+*.pyc
+*.swo
+*.swp
+~*
+*~
+*.egg*
+.DS_Store
+.ipynb_checkpoints/
