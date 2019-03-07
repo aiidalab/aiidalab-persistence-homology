@@ -1,4 +1,7 @@
 {
-    "description": "Materials Cloud App for persistence homology analysis of nanoporous materials.",
-    "title": "Persistence Homology"
+    "title": "Persistence Homology",
+    "description": "Perform persistence homology analysis of nanoporous materials.",
+    "authors": "Leopold Talirz",
+    "version": "0.1.0b",
+    "state": "development"
 }
